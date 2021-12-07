@@ -1,5 +1,14 @@
-div {
+.demo{
     width: 100px;
     height: 100px;
     background-color: green;
+  }
+
+  svg{
+    width: 500px;
+    margin: auto;
+  }
+
+  .textCircle{
+    width: 100px;
   }
