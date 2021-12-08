@@ -6,8 +6,15 @@
 
   svg{
     width: 500px;
-    margin: auto;
   }
+  #name{
+    position:absolute;
+  }
+
+  #logo1{
+    position: absolute;
+  }
+ 
 
   .textCircle{
     width: 100px;
