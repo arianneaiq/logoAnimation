@@ -7,6 +7,16 @@ let pen = anime({
   duration: 500,
   easing: 'easeOutExpo',
 });
+ 
+let logo = anime({
+  targets: '',
+  scale: {
+    value: 2,
+    duration: 1600,
+    delay: 800,
+    easing: 'linear'
+  },
+});
 
 let name = anime({
   targets: '#name',
